@@ -1,7 +1,8 @@
 {
   "packages": [
     "nativeapp/*",
-    "webapp/*"
+    "webapp/*",
+    "common/*"
   ],
   "version": "independent"
 }
